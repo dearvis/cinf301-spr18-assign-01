@@ -1,29 +1,46 @@
-#body-form {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 9em;
+#body-form1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12pt;
     background-color: aquamarine;
 }
 
 .paragraphs {
     font-family: 'Montserrat', sans-serif;
-    color: darkturquoise;
+    color: black;
     font-size: 1em;
     border: 1px;
-    border-style: solid;
-    border-color: brown;
+    border-style: dotted;
+    border-color: grey;
     padding: 30px;
     margin: 50px;
 }
 
-.images {
-  position: relative;
-      left: 30px;
-      right:30px;
-      top: 30px;
-      bottom: 30px;
-      border: 3px solid #73AD21;
+.imagesLeft{
+    float: left;
+    margin: 5px;
 }
 
-body{
-  background-color: lightblue;
+.imagesRight{
+    float: right;
+    margin: .05px;
+}
+
+.puppyWHipCreme
+{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 25%;
+}
+
+.catvdog
+{
+  position: relative;
+    left: 470px;
+}
+
+.memeHeader1 {
+  border-style: solid;
+  font size: 800px;
+     border-color: red;
 }
