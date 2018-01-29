@@ -39,8 +39,8 @@
     left: 470px;
 }
 
-.memeHeader1 {
-  border-style: solid;
-  font size: 800px;
-     border-color: red;
+
+.memePics{
+  float: left;
+  margin: 150px;
 }
